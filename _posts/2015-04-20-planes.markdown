@@ -7,7 +7,7 @@ image: "img/7029158-pink-flowers-nature.jpg"
 date:   2016-04-20 12:12:12
 ---
 
-<audio width="300" height="32" preload="auto" source src="Auburn - Perfect Two.ogg.ogg" controls="controls" loop="loop">
+<audio width="300" height="32" preload="auto" source src="Auburn - Perfect Two.ogg" controls="controls" loop="loop">
 </audio>
 ---
 <html manifest="demo.appcache">
