@@ -3,7 +3,7 @@ title:  "Waterfall-Lotus-Dream!"
 subtitle: "Cant Handle How Wonderful this!"
 author: "ANMILD^95"
 avatar: "img/authors/wferr.png"
-image: "img/y7034930-waterfall-lotus-dream..jpg"
+image: "img/waterfall-lotus-dream.jpg"
 date:   2016-04-20 12:12:12
 ---
 
